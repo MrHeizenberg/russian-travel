@@ -14,4 +14,4 @@
 
 **Ссылка на проект**
 
-* https://github.com/MrHeizenberg/russian-travel
+* https://mrheizenberg.github.io/russian-travel/index.html
