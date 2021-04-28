@@ -4,8 +4,8 @@
     display: grid;
     grid-template-columns: minmax(min-content, max-content);
     grid-template-areas: 
-    'title links'
-    'image paragraph';
+    "title links"
+    "image paragraph";
     gap: 48px 40px;
 }
 
@@ -30,10 +30,10 @@
     .place {
         margin-bottom: 50px;
         grid-template-areas: 
-            'title'
-            'links'
-            'image'
-            'paragraph';
+            "title"
+            "links"
+            "image"
+            "paragraph";
         gap: 32px;
     }
 }

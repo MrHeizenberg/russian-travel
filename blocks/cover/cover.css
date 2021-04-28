@@ -5,15 +5,11 @@
     margin: 0 auto 92px;
     background-image: url(../../images/cover-trains.jpg);
     background-size: cover;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     position: relative;
 }
 
 .cover::before {
-content: '';
+content: "";
 position: absolute;
 top: 0;
 left: 0;
