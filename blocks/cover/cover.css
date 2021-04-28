@@ -6,6 +6,7 @@
     background-image: url(../../images/cover-trains.jpg);
     background-size: cover;
     position: relative;
+    display: flex;
 }
 
 .cover::before {
@@ -19,7 +20,7 @@ background-color: rgba(0, 0, 0, 0.3);
 }
 
 .cover:hover::before {
-content: '';
+content: "";
 position: absolute;
 top: 0;
 left: 0;
