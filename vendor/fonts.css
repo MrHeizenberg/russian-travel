@@ -1,17 +1,4 @@
 @font-face {
-    font-family: Inter-ExtraBold;
-    src: url(./fonts/Inter-ExtraBold.woff2);
-    font-weight: 900;
-}
-
-@font-face {
-    font-family: Inter-Bold;
-    src: url(./fonts/Inter-Bold.woff2);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: Inter;
+    font-family: Inter, Arial, sans-serif;
     src: url(./fonts/Inter.var.woff2);
-    font-weight: normal;
 }

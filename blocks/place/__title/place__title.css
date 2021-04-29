@@ -4,7 +4,7 @@
     width: 100%;
     font-size: 72px;
     line-height: 76px;
-    font-family: "Inter-Bold";
+    font-weight: 900;
     grid-area: title;
 }
 

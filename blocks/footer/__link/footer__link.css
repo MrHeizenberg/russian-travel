@@ -4,21 +4,15 @@
     color: white;
     font-size: 16px;
     line-height: 18px;
+    transition: opacity 0.3s ease;
 }
 
 .footer__link:hover {
     opacity: 0.8;
-    transition: opacity 0.3s ease;
 }
 
 .footer__link:nth-last-of-type(1) {
     margin:0;
-}
-
-@media screen and (max-width: 767px) {
-    .footer__link {
-        margin: 0 0 32px 0;
-    }
 }
 
 @media screen and (max-width: 767px) {
