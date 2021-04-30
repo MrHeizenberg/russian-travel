@@ -2,8 +2,9 @@
     margin: 0 0 26px;
     max-width: 484px;
     width: 100%;
-    font-size: 19px;
+    font-size: 18px;
     line-height: 29px;
+    font-weight: 400;
 }
 
 @media screen and (max-width: 1279px) {

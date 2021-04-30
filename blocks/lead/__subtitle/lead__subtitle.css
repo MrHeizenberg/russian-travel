@@ -3,8 +3,9 @@
     max-width: 640px;
     width: 100%;
     text-align: center;
-    font-size: 32px;
+    font-size: 30px;
     line-height: 36px;
+    font-weight: 400;
 }
 
 @media screen and (max-width: 1279px) {
